@@ -1,3 +1,4 @@
-git remote add origin https://github.com/fatoni1995/Whoaim.git
-git branch -M main
-git push -u origin main
+#Biografia 
+
+Une quhem Faton Memaj Nga qyteti i Prizerenit shpresoj se do
+e kalojm mire ne  kete BOOTCAMP 8
